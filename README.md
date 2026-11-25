@@ -18,10 +18,8 @@ Desenvolver um sistema web que facilite o gerenciamento dos agendamentos de um s
 
 ## Funcionalidades previstas
 
-- Cadastro de clientes.
-- Consulta, edição e exclusão de clientes.
-- Consulta, edição e exclusão de serviços.
-- Cadastro e gerenciamento de agendamentos.
+- CRUD de clientes.
+- CRUD de agendamentos.
 - Visualização dos agendamentos por dia e por semana.
 - Prevenção de conflitos de horários.
 
